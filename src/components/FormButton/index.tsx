@@ -1,5 +1,5 @@
 import React, {FC} from 'react';
-import { StyleSheet, TouchableOpacity, Text } from 'react-native';
+import {TouchableOpacity, Text } from 'react-native';
 import {styles} from "./style";
 import {FormButtonProps} from "./type";
 
